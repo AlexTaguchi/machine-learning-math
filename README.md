@@ -4,7 +4,7 @@ Guide to understanding the mathematical and probabilistic notations in machine l
 ## Symbols
 ### Comparisons
 - `:=` "Is assigned as" (e.g. $x := y$ means $y$ is assigned to $x$)
-- `=:` "Is defined to be equal to" (e.g. $x =: y$ means $x$ is defined to be $y$)
+- `=:` "Is defined to be equal to" (e.g. $x =: y$ means $x$ is defined to be equivalent to $y$)
 - `~` "Follows the distribution" (e.g. $X \sim \mathcal{N}(0,1)$ means $X$ follows a normal distribution)
 
 ### Logic
