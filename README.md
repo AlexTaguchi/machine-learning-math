@@ -3,13 +3,14 @@ Guide to understanding the mathematical and probabilistic notations in machine l
 
 ## Symbols
 ### Comparisons
-- `:=`,`≡` "Equal by definition"
+- `:=`,`≡` "Equals by definition"
+- `~` "Follows the distribution" (e.g. $X \sim \mathcal{N}(0,1)$ means $X$ follows a normal distribution)
 
 ### Logic
 - `∴` "Therefore"
 - `∋`,`s.t.` "Such that" ("under the condition that")
-- `⇒` "Implies" ("raining ⇒ pouring" means "if it’s raining, then it’s pouring")
-- `⇐⇒`,`iff` "If and only if" ("thunder iff lightening" means thunder and lightening imply eachother)
+- `⇒` "Implies" (e.g. "raining ⇒ pouring" means "if it’s raining, then it’s pouring")
+- `⇐⇒`,`iff` "If and only if" (e.g. "thunder iff lightening" means thunder and lightening imply eachother)
 - `∀` "For all" (universal quantifier)
 - `∃` "There exists" (existential quantifier)
 - `􏰀`,`QED` "End of logical statement"
@@ -21,3 +22,6 @@ Guide to understanding the mathematical and probabilistic notations in machine l
 - `∪` "Union" ("take the elements that are in either set"
 - `∩` "Intersection" ("take the elements that the two sets have in common")
 - `∅` "Null set" ("the set without any elements in it")
+
+## Expressions
+- Normal or Gaussian distribution: $\mathcal{N}(\mu,\sigma^{2})$
