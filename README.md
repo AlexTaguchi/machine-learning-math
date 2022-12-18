@@ -27,4 +27,5 @@ Guide to understanding the mathematical and probabilistic notations in machine l
 ## Expressions
 - $p_\theta(x)$ – Prior/initial/underlying probability distribution for state $x$ with model parameters $\theta$
 - $q_\theta(x)$ – Posterior/updated/predicted probability distribution for state $x$ with model parameters $\theta$
+- $p(x|y)$ - Conditional probability distribution of state $x$ given state $y$
 - $\mathcal{N}(\mu,\sigma^{2})$ – Normal or Gaussian distribution
