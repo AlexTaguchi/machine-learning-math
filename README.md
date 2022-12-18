@@ -3,7 +3,8 @@ Guide to understanding the mathematical and probabilistic notations in machine l
 
 ## Symbols
 ### Comparisons
-- `:=`,`≡` "Equals by definition"
+- `:=` "Is defined as" (assignment to the left)
+- `=:` "Is defined to be equal to" (assignment to the right)
 - `~` "Follows the distribution" (e.g. $X \sim \mathcal{N}(0,1)$ means $X$ follows a normal distribution)
 
 ### Logic
