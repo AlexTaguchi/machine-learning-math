@@ -25,4 +25,6 @@ Guide to understanding the mathematical and probabilistic notations in machine l
 - `∅` "Null set" ("the set without any elements in it")
 
 ## Expressions
-- Normal or Gaussian distribution: $\mathcal{N}(\mu,\sigma^{2})$
+- $p_\theta(x)$ – Prior/initial/underlying probability distribution for state $x$ with model parameters $\theta$
+- $q_\theta(x)$ – Posterior/updated/predicted probability distribution for state $x$ with model parameters $\theta$
+- $\mathcal{N}(\mu,\sigma^{2})$ – Normal or Gaussian distribution
